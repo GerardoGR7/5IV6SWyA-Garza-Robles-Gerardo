@@ -1,0 +1,43 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.main-title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.form-container {
+    margin-top: 20px;
+}
+
+.form-control {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.button-section {
+    margin-top: 10px;
+}
+
+.button-section .btn {
+    background-color: #3bb273;
+    color: #fff;
+}
+
+.clave-secreta-section,
+.texto-cifrar-section,
+.copy-button-section {
+    margin-top: 20px;
+}
+
+.copy-button-section .btn {
+    background-color: #d9534f;
+    color: #fff;
+}
+
+.menu-button {
+    margin-top: 20px;
+}
+

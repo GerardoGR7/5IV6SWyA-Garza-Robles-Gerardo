@@ -1,0 +1,33 @@
+body {
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.main-title {
+    font-size: 24px;
+    margin-top: 20px;
+}
+
+.descifrar-button,
+.menu-button {
+    margin-top: 20px;
+}
+
+.form-control {
+    margin-top: 10px;
+    background-color: #1a1a1a;
+    color: #fff;
+}
+
+.btn-primary {
+    background-color: #3bb273;
+    border-color: #3bb273;
+    color: #fff;
+}
+
+.btn-secondary {
+    background-color: #d9534f;
+    border-color: #d9534f;
+    color: #fff;
+}
+

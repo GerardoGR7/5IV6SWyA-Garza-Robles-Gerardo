@@ -1,0 +1,30 @@
+body {
+    background-color: #333; 
+    color: #fff; 
+}
+
+.container {
+    background-color: #444; 
+    padding: 20px;
+    text-align: center;
+    border-radius: 10px;
+}
+
+h1 {
+    color: #fff; 
+}
+
+p {
+    font-size: 20px;
+    margin-bottom: 20px;
+}
+
+.btn-primary {
+    background-color: #3bb273; 
+    color: #fff; 
+}
+
+.btn-success {
+    background-color: #d9534f; 
+    color: #fff; 
+}
